@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/applepc24/Leetcode_Algo/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/1354-construct-target-array-with-multiple-sums) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
