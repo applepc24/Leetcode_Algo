@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/applepc24/Leetcode_Algo/tree/master/0485-max-consecutive-ones) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/applepc24/Leetcode_Algo/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/applepc24/Leetcode_Algo/tree/master/0739-daily-temperatures) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/applepc24/Leetcode_Algo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/applepc24/Leetcode_Algo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
@@ -91,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/applepc24/Leetcode_Algo/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 <!---LeetCode Topics End-->
