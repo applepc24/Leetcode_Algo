@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/applepc24/Leetcode_Algo/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/applepc24/Leetcode_Algo/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
