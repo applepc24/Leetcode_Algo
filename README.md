@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/applepc24/Leetcode_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/applepc24/Leetcode_Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
