@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0482-license-key-formatting](https://github.com/applepc24/Leetcode_Algo/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/applepc24/Leetcode_Algo/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/applepc24/Leetcode_Algo/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
