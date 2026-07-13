@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/applepc24/Leetcode_Algo/tree/master/0006-zigzag-conversion) |
 | [0482-license-key-formatting](https://github.com/applepc24/Leetcode_Algo/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/applepc24/Leetcode_Algo/tree/master/0521-longest-uncommon-subsequence-i) |
