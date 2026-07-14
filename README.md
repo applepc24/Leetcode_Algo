@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/applepc24/Leetcode_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/applepc24/Leetcode_Algo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/applepc24/Leetcode_Algo/tree/master/2073-time-needed-to-buy-tickets) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/applepc24/Leetcode_Algo/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/applepc24/Leetcode_Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,8 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/applepc24/Leetcode_Algo/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
