@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/applepc24/Leetcode_Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
