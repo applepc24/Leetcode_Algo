@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/applepc24/Leetcode_Algo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/applepc24/Leetcode_Algo/tree/master/2073-time-needed-to-buy-tickets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/applepc24/Leetcode_Algo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/applepc24/Leetcode_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/applepc24/Leetcode_Algo/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/applepc24/Leetcode_Algo/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
