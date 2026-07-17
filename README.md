@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/applepc24/Leetcode_Algo/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/applepc24/Leetcode_Algo/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0796-rotate-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/applepc24/Leetcode_Algo/tree/master/0831-masking-personal-information) |
 ## Two Pointers
 |  |
@@ -166,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/applepc24/Leetcode_Algo/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
