@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/applepc24/Leetcode_Algo/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/applepc24/Leetcode_Algo/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/applepc24/Leetcode_Algo/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/applepc24/Leetcode_Algo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/applepc24/Leetcode_Algo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/applepc24/Leetcode_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/applepc24/Leetcode_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/applepc24/Leetcode_Algo/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/applepc24/Leetcode_Algo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/applepc24/Leetcode_Algo/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/applepc24/Leetcode_Algo/tree/master/0831-masking-personal-information) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/applepc24/Leetcode_Algo/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/applepc24/Leetcode_Algo/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
