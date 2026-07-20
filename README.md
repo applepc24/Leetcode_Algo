@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/applepc24/Leetcode_Algo/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/applepc24/Leetcode_Algo/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/applepc24/Leetcode_Algo/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/applepc24/Leetcode_Algo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/applepc24/Leetcode_Algo/tree/master/1441-build-an-array-with-stack-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/applepc24/Leetcode_Algo/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/applepc24/Leetcode_Algo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/applepc24/Leetcode_Algo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/applepc24/Leetcode_Algo/tree/master/1929-concatenation-of-array) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/applepc24/Leetcode_Algo/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
