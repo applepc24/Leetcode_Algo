@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/applepc24/Leetcode_Algo/tree/master/0831-masking-personal-information) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/applepc24/Leetcode_Algo/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/applepc24/Leetcode_Algo/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/applepc24/Leetcode_Algo/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
