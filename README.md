@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/applepc24/Leetcode_Algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/applepc24/Leetcode_Algo/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/applepc24/Leetcode_Algo/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/applepc24/Leetcode_Algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/applepc24/Leetcode_Algo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/applepc24/Leetcode_Algo/tree/master/0328-odd-even-linked-list) |
 ## Recursion
