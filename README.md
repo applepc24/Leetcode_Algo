@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/applepc24/Leetcode_Algo/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/applepc24/Leetcode_Algo/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/applepc24/Leetcode_Algo/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/applepc24/Leetcode_Algo/tree/master/1046-last-stone-weight) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/applepc24/Leetcode_Algo/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/applepc24/Leetcode_Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0932-beautiful-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/applepc24/Leetcode_Algo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/applepc24/Leetcode_Algo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/applepc24/Leetcode_Algo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
 |  |
@@ -279,4 +282,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/applepc24/Leetcode_Algo/tree/master/0100-same-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
