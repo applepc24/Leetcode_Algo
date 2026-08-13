@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/applepc24/Leetcode_Algo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/applepc24/Leetcode_Algo/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
 | [0636-exclusive-time-of-functions](https://github.com/applepc24/Leetcode_Algo/tree/master/0636-exclusive-time-of-functions) |
@@ -208,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -297,4 +301,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/applepc24/Leetcode_Algo/tree/master/0877-stone-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
