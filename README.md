@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/applepc24/Leetcode_Algo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/applepc24/Leetcode_Algo/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/applepc24/Leetcode_Algo/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/applepc24/Leetcode_Algo/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/applepc24/Leetcode_Algo/tree/master/0084-largest-rectangle-in-histogram) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/applepc24/Leetcode_Algo/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/applepc24/Leetcode_Algo/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/applepc24/Leetcode_Algo/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0215-kth-largest-element-in-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/applepc24/Leetcode_Algo/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/applepc24/Leetcode_Algo/tree/master/0141-linked-list-cycle) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/applepc24/Leetcode_Algo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
