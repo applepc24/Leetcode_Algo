@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/applepc24/Leetcode_Algo/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/applepc24/Leetcode_Algo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/applepc24/Leetcode_Algo/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/applepc24/Leetcode_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/applepc24/Leetcode_Algo/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/applepc24/Leetcode_Algo/tree/master/0523-continuous-subarray-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/applepc24/Leetcode_Algo/tree/master/0006-zigzag-conversion) |
+| [0424-longest-repeating-character-replacement](https://github.com/applepc24/Leetcode_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/applepc24/Leetcode_Algo/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/applepc24/Leetcode_Algo/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/applepc24/Leetcode_Algo/tree/master/0482-license-key-formatting) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/applepc24/Leetcode_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/applepc24/Leetcode_Algo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
