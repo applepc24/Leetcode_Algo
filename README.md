@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/applepc24/Leetcode_Algo/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/applepc24/Leetcode_Algo/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/applepc24/Leetcode_Algo/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/applepc24/Leetcode_Algo/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/applepc24/Leetcode_Algo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/applepc24/Leetcode_Algo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/applepc24/Leetcode_Algo/tree/master/0215-kth-largest-element-in-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/applepc24/Leetcode_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/applepc24/Leetcode_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/applepc24/Leetcode_Algo/tree/master/0006-zigzag-conversion) |
+| [0079-word-search](https://github.com/applepc24/Leetcode_Algo/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/applepc24/Leetcode_Algo/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/applepc24/Leetcode_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/applepc24/Leetcode_Algo/tree/master/0459-repeated-substring-pattern) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/applepc24/Leetcode_Algo/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/applepc24/Leetcode_Algo/tree/master/1260-shift-2d-grid) |
 ## Quicksort
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/applepc24/Leetcode_Algo/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/applepc24/Leetcode_Algo/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/applepc24/Leetcode_Algo/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/applepc24/Leetcode_Algo/tree/master/1392-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/applepc24/Leetcode_Algo/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
